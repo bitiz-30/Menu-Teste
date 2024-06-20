@@ -1,0 +1,16 @@
+.naoclase{
+    border: 1px solid rgb(137, 137, 146);
+}
+
+.imagem{
+    height: 19px;
+    width: 18px;
+    border: 1px solid rgb(137, 137, 146);
+}
+.letra{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.desing{
+    background-color: rgb(134, 251, 212);
+    width: 3800px;
+    height: 165px;
